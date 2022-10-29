@@ -1,3 +1,4 @@
+//Program for Stack
 class Stack{
   int top=0;
   int[] arr;
