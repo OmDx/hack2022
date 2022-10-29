@@ -1,5 +1,6 @@
+//Program for Queue 
 public class Queue {
-  int SIZE = 5;
+  int SIZE = 6;
   int items[] = new int[SIZE];
   int front, rear;
 
