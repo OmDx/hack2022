@@ -1,3 +1,4 @@
+//Program for Binary Search Tree
 class BST_class { 
     //node class that defines BST node
     class Node { 
